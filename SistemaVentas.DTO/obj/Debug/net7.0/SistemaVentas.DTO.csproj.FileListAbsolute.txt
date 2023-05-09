@@ -1,0 +1,12 @@
+C:\Users\sebas\OneDrive\Escritorio\SistemaVentas\SistemaVentas\SistemaVentas.DTO\bin\Debug\net7.0\SistemaVentas.DTO.deps.json
+C:\Users\sebas\OneDrive\Escritorio\SistemaVentas\SistemaVentas\SistemaVentas.DTO\bin\Debug\net7.0\SistemaVentas.DTO.dll
+C:\Users\sebas\OneDrive\Escritorio\SistemaVentas\SistemaVentas\SistemaVentas.DTO\bin\Debug\net7.0\SistemaVentas.DTO.pdb
+C:\Users\sebas\OneDrive\Escritorio\SistemaVentas\SistemaVentas\SistemaVentas.DTO\obj\Debug\net7.0\SistemaVentas.DTO.csproj.AssemblyReference.cache
+C:\Users\sebas\OneDrive\Escritorio\SistemaVentas\SistemaVentas\SistemaVentas.DTO\obj\Debug\net7.0\SistemaVentas.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\OneDrive\Escritorio\SistemaVentas\SistemaVentas\SistemaVentas.DTO\obj\Debug\net7.0\SistemaVentas.DTO.AssemblyInfoInputs.cache
+C:\Users\sebas\OneDrive\Escritorio\SistemaVentas\SistemaVentas\SistemaVentas.DTO\obj\Debug\net7.0\SistemaVentas.DTO.AssemblyInfo.cs
+C:\Users\sebas\OneDrive\Escritorio\SistemaVentas\SistemaVentas\SistemaVentas.DTO\obj\Debug\net7.0\SistemaVentas.DTO.csproj.CoreCompileInputs.cache
+C:\Users\sebas\OneDrive\Escritorio\SistemaVentas\SistemaVentas\SistemaVentas.DTO\obj\Debug\net7.0\SistemaVentas.DTO.dll
+C:\Users\sebas\OneDrive\Escritorio\SistemaVentas\SistemaVentas\SistemaVentas.DTO\obj\Debug\net7.0\refint\SistemaVentas.DTO.dll
+C:\Users\sebas\OneDrive\Escritorio\SistemaVentas\SistemaVentas\SistemaVentas.DTO\obj\Debug\net7.0\SistemaVentas.DTO.pdb
+C:\Users\sebas\OneDrive\Escritorio\SistemaVentas\SistemaVentas\SistemaVentas.DTO\obj\Debug\net7.0\ref\SistemaVentas.DTO.dll

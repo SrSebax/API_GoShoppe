@@ -1,0 +1,17 @@
+C:\Users\sebas\OneDrive\Escritorio\SistemaVentas\SistemaVentas\SistemaVentas.Utility\bin\Debug\net7.0\SistemaVentas.Utility.deps.json
+C:\Users\sebas\OneDrive\Escritorio\SistemaVentas\SistemaVentas\SistemaVentas.Utility\bin\Debug\net7.0\SistemaVentas.Utility.dll
+C:\Users\sebas\OneDrive\Escritorio\SistemaVentas\SistemaVentas\SistemaVentas.Utility\bin\Debug\net7.0\SistemaVentas.Utility.pdb
+C:\Users\sebas\OneDrive\Escritorio\SistemaVentas\SistemaVentas\SistemaVentas.Utility\obj\Debug\net7.0\SistemaVentas.Utility.csproj.AssemblyReference.cache
+C:\Users\sebas\OneDrive\Escritorio\SistemaVentas\SistemaVentas\SistemaVentas.Utility\obj\Debug\net7.0\SistemaVentas.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\OneDrive\Escritorio\SistemaVentas\SistemaVentas\SistemaVentas.Utility\obj\Debug\net7.0\SistemaVentas.Utility.AssemblyInfoInputs.cache
+C:\Users\sebas\OneDrive\Escritorio\SistemaVentas\SistemaVentas\SistemaVentas.Utility\obj\Debug\net7.0\SistemaVentas.Utility.AssemblyInfo.cs
+C:\Users\sebas\OneDrive\Escritorio\SistemaVentas\SistemaVentas\SistemaVentas.Utility\obj\Debug\net7.0\SistemaVentas.Utility.csproj.CoreCompileInputs.cache
+C:\Users\sebas\OneDrive\Escritorio\SistemaVentas\SistemaVentas\SistemaVentas.Utility\obj\Debug\net7.0\SistemaVentas.Utility.dll
+C:\Users\sebas\OneDrive\Escritorio\SistemaVentas\SistemaVentas\SistemaVentas.Utility\obj\Debug\net7.0\refint\SistemaVentas.Utility.dll
+C:\Users\sebas\OneDrive\Escritorio\SistemaVentas\SistemaVentas\SistemaVentas.Utility\obj\Debug\net7.0\SistemaVentas.Utility.pdb
+C:\Users\sebas\OneDrive\Escritorio\SistemaVentas\SistemaVentas\SistemaVentas.Utility\obj\Debug\net7.0\ref\SistemaVentas.Utility.dll
+C:\Users\sebas\OneDrive\Escritorio\SistemaVentas\SistemaVentas\SistemaVentas.Utility\bin\Debug\net7.0\SistemaVentas.DTO.dll
+C:\Users\sebas\OneDrive\Escritorio\SistemaVentas\SistemaVentas\SistemaVentas.Utility\bin\Debug\net7.0\SistemaVentas.Model.dll
+C:\Users\sebas\OneDrive\Escritorio\SistemaVentas\SistemaVentas\SistemaVentas.Utility\bin\Debug\net7.0\SistemaVentas.DTO.pdb
+C:\Users\sebas\OneDrive\Escritorio\SistemaVentas\SistemaVentas\SistemaVentas.Utility\bin\Debug\net7.0\SistemaVentas.Model.pdb
+C:\Users\sebas\OneDrive\Escritorio\SistemaVentas\SistemaVentas\SistemaVentas.Utility\obj\Debug\net7.0\SistemaVentas.Utility.csproj.CopyComplete
