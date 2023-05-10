@@ -83,3 +83,13 @@ C:\Users\sebas\OneDrive\Escritorio\SistemaVentas\SistemaVentas\SistemaVentas.API
 C:\Users\sebas\OneDrive\Escritorio\SistemaVentas\SistemaVentas\SistemaVentas.API\bin\Debug\net7.0\SistemaVentas.Utility.pdb
 C:\Users\sebas\OneDrive\Escritorio\SistemaVentas\SistemaVentas\SistemaVentas.API\bin\Debug\net7.0\AutoMapper.dll
 C:\Users\sebas\OneDrive\Escritorio\SistemaVentas\SistemaVentas\SistemaVentas.API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Santiago\Source\Repos\SistemaVentas\SistemaVentas.API\obj\Debug\net7.0\SistemaVentas.API.csproj.AssemblyReference.cache
+C:\Users\Santiago\Source\Repos\SistemaVentas\SistemaVentas.API\obj\Debug\net7.0\SistemaVentas.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Santiago\Source\Repos\SistemaVentas\SistemaVentas.API\obj\Debug\net7.0\SistemaVentas.API.AssemblyInfoInputs.cache
+C:\Users\Santiago\Source\Repos\SistemaVentas\SistemaVentas.API\obj\Debug\net7.0\SistemaVentas.API.AssemblyInfo.cs
+C:\Users\Santiago\Source\Repos\SistemaVentas\SistemaVentas.API\obj\Debug\net7.0\SistemaVentas.API.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\Source\Repos\SistemaVentas\SistemaVentas.API\obj\Debug\net7.0\SistemaVentas.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Santiago\Source\Repos\SistemaVentas\SistemaVentas.API\obj\Debug\net7.0\SistemaVentas.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Santiago\Source\Repos\SistemaVentas\SistemaVentas.API\obj\Debug\net7.0\SistemaVentas.API.dll
+C:\Users\Santiago\Source\Repos\SistemaVentas\SistemaVentas.API\obj\Debug\net7.0\refint\SistemaVentas.API.dll
+C:\Users\Santiago\Source\Repos\SistemaVentas\SistemaVentas.API\obj\Debug\net7.0\SistemaVentas.API.pdb
