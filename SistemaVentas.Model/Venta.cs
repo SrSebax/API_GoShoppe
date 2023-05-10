@@ -8,6 +8,7 @@ public partial class Venta
     public int IdVenta { get; set; }
 
     // Buenas
+    // Bicho
 
     public string? NumeroDocumento { get; set; }
 
