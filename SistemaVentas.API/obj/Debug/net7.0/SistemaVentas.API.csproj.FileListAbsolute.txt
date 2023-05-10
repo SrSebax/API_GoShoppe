@@ -81,3 +81,5 @@ C:\Users\sebas\OneDrive\Escritorio\SistemaVentas\SistemaVentas\SistemaVentas.API
 C:\Users\sebas\OneDrive\Escritorio\SistemaVentas\SistemaVentas\SistemaVentas.API\bin\Debug\net7.0\SistemaVentas.DAL.pdb
 C:\Users\sebas\OneDrive\Escritorio\SistemaVentas\SistemaVentas\SistemaVentas.API\bin\Debug\net7.0\SistemaVentas.Model.pdb
 C:\Users\sebas\OneDrive\Escritorio\SistemaVentas\SistemaVentas\SistemaVentas.API\bin\Debug\net7.0\SistemaVentas.Utility.pdb
+C:\Users\sebas\OneDrive\Escritorio\SistemaVentas\SistemaVentas\SistemaVentas.API\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\sebas\OneDrive\Escritorio\SistemaVentas\SistemaVentas\SistemaVentas.API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
