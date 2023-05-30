@@ -17,11 +17,11 @@ namespace SistemaVentas.BLL.Servicios
     public class VentaService : IVentaService
     {
         private readonly IVentaRepository _ventaRepositorio;
-        private readonly IGenericRepository<Venta> _detalleVentaRepositorio;
+        private readonly IGenericRepository<DetalleVenta> _detalleVentaRepositorio;
         private readonly IMapper _mapper;
 
         public VentaService(IVentaRepository ventaRepositorio, 
-            IGenericRepository<Venta> detalleVentaRepositorio, 
+            IGenericRepository<DetalleVenta> detalleVentaRepositorio, 
             IMapper mapper)
         {
             _ventaRepositorio = ventaRepositorio;
