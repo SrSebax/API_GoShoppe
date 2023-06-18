@@ -8,12 +8,6 @@ C:\Users\Santiago\Source\Repos\SistemaVentas\SistemaVentas.API\obj\Debug\net7.0\
 C:\Users\Santiago\Source\Repos\SistemaVentas\SistemaVentas.API\obj\Debug\net7.0\SistemaVentas.API.dll
 C:\Users\Santiago\Source\Repos\SistemaVentas\SistemaVentas.API\obj\Debug\net7.0\refint\SistemaVentas.API.dll
 C:\Users\Santiago\Source\Repos\SistemaVentas\SistemaVentas.API\obj\Debug\net7.0\SistemaVentas.API.pdb
-C:\Users\sebas\OneDrive\Escritorio\SistemaVentas\SistemaVentas\SistemaVentas.API\obj\Debug\net7.0\SistemaVentas.API.csproj.AssemblyReference.cache
-C:\Users\sebas\OneDrive\Escritorio\SistemaVentas\SistemaVentas\SistemaVentas.API\obj\Debug\net7.0\SistemaVentas.API.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\sebas\OneDrive\Escritorio\SistemaVentas\SistemaVentas\SistemaVentas.API\obj\Debug\net7.0\SistemaVentas.API.AssemblyInfoInputs.cache
-C:\Users\sebas\OneDrive\Escritorio\SistemaVentas\SistemaVentas\SistemaVentas.API\obj\Debug\net7.0\SistemaVentas.API.AssemblyInfo.cs
-C:\Users\sebas\OneDrive\Escritorio\SistemaVentas\SistemaVentas\SistemaVentas.API\obj\Debug\net7.0\SistemaVentas.API.csproj.CoreCompileInputs.cache
-C:\Users\sebas\OneDrive\Escritorio\SistemaVentas\SistemaVentas\SistemaVentas.API\obj\Debug\net7.0\SistemaVentas.API.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\sebas\OneDrive\Escritorio\SistemaVentas\SistemaVentas\SistemaVentas.API\bin\Debug\net7.0\appsettings.Development.json
 C:\Users\sebas\OneDrive\Escritorio\SistemaVentas\SistemaVentas\SistemaVentas.API\bin\Debug\net7.0\appsettings.json
 C:\Users\sebas\OneDrive\Escritorio\SistemaVentas\SistemaVentas\SistemaVentas.API\bin\Debug\net7.0\SistemaVentas.API.exe
@@ -78,6 +72,13 @@ C:\Users\sebas\OneDrive\Escritorio\SistemaVentas\SistemaVentas\SistemaVentas.API
 C:\Users\sebas\OneDrive\Escritorio\SistemaVentas\SistemaVentas\SistemaVentas.API\bin\Debug\net7.0\SistemaVentas.DAL.pdb
 C:\Users\sebas\OneDrive\Escritorio\SistemaVentas\SistemaVentas\SistemaVentas.API\bin\Debug\net7.0\SistemaVentas.Model.pdb
 C:\Users\sebas\OneDrive\Escritorio\SistemaVentas\SistemaVentas\SistemaVentas.API\bin\Debug\net7.0\SistemaVentas.Utility.pdb
+C:\Users\sebas\OneDrive\Escritorio\SistemaVentas\SistemaVentas\SistemaVentas.API\obj\Debug\net7.0\SistemaVentas.API.csproj.AssemblyReference.cache
+C:\Users\sebas\OneDrive\Escritorio\SistemaVentas\SistemaVentas\SistemaVentas.API\obj\Debug\net7.0\SistemaVentas.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\OneDrive\Escritorio\SistemaVentas\SistemaVentas\SistemaVentas.API\obj\Debug\net7.0\SistemaVentas.API.AssemblyInfoInputs.cache
+C:\Users\sebas\OneDrive\Escritorio\SistemaVentas\SistemaVentas\SistemaVentas.API\obj\Debug\net7.0\SistemaVentas.API.AssemblyInfo.cs
+C:\Users\sebas\OneDrive\Escritorio\SistemaVentas\SistemaVentas\SistemaVentas.API\obj\Debug\net7.0\SistemaVentas.API.csproj.CoreCompileInputs.cache
+C:\Users\sebas\OneDrive\Escritorio\SistemaVentas\SistemaVentas\SistemaVentas.API\obj\Debug\net7.0\SistemaVentas.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sebas\OneDrive\Escritorio\SistemaVentas\SistemaVentas\SistemaVentas.API\obj\Debug\net7.0\SistemaVentas.API.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\sebas\OneDrive\Escritorio\SistemaVentas\SistemaVentas\SistemaVentas.API\obj\Debug\net7.0\staticwebassets\msbuild.SistemaVentas.API.Microsoft.AspNetCore.StaticWebAssets.props
 C:\Users\sebas\OneDrive\Escritorio\SistemaVentas\SistemaVentas\SistemaVentas.API\obj\Debug\net7.0\staticwebassets\msbuild.build.SistemaVentas.API.props
 C:\Users\sebas\OneDrive\Escritorio\SistemaVentas\SistemaVentas\SistemaVentas.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SistemaVentas.API.props
@@ -92,4 +93,3 @@ C:\Users\sebas\OneDrive\Escritorio\SistemaVentas\SistemaVentas\SistemaVentas.API
 C:\Users\sebas\OneDrive\Escritorio\SistemaVentas\SistemaVentas\SistemaVentas.API\obj\Debug\net7.0\SistemaVentas.API.pdb
 C:\Users\sebas\OneDrive\Escritorio\SistemaVentas\SistemaVentas\SistemaVentas.API\obj\Debug\net7.0\SistemaVentas.API.genruntimeconfig.cache
 C:\Users\sebas\OneDrive\Escritorio\SistemaVentas\SistemaVentas\SistemaVentas.API\obj\Debug\net7.0\ref\SistemaVentas.API.dll
-C:\Users\sebas\OneDrive\Escritorio\SistemaVentas\SistemaVentas\SistemaVentas.API\obj\Debug\net7.0\SistemaVentas.API.MvcApplicationPartsAssemblyInfo.cs
